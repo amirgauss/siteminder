@@ -33,7 +33,7 @@ Below is the list of all the available test cases in this project.
           Then The Dashboard Page is loaded successfully
 
  ```         
-(https://github.com/katalon-studio-samples/jira-ui-tests/blob/master/Tutorials/Figures/Execute%20a%20test%20suite%20collection.png?raw=true)
+(https://github.com/amirgauss/siteminder/blob/master/Tutorials/Figures/login.png?raw=true)
 ### Story: Filter tickets
 ```Gherkin     
      User story
@@ -50,4 +50,4 @@ Below is the list of all the available test cases in this project.
           |'\'Love\' Hanmer Couples Retreat'|0010D000007MzUXQA0|'95 Chalet Crescent,Hanmer Springs,Canterbury,New Zealand,NZ,'|
           |'(Cairn Hotel Group) Angel Hotel'|0010D000007MyRsQAK|'Castle St,Cardiff,Wales,United Kingdom,GB,CF10 1QZ'|
 ```
-(https://github.com/katalon-studio-samples/jira-ui-tests/blob/master/Tutorials/Figures/Execute%20a%20test%20suite%20collection.png?raw=true)
+(https://github.com/amirgauss/siteminder/blob/master/Tutorials/Figures/filter.png?raw=true)
